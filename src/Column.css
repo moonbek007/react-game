@@ -1,0 +1,13 @@
+.board-button {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: inherit;
+  color: #fff;
+  cursor: pointer;
+  border: 1px solid #fff;
+  font-size: 2.5rem;
+}
+.board-button:hover {
+  background-color: rgb(25, 25, 25);
+}
